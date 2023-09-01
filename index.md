@@ -1,3 +1,3 @@
-# <h1>Tshwanelo Mosii <h1>
+# Tshwanelo Mosii 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
